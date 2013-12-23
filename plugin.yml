@@ -1,0 +1,5 @@
+name: fifoBukkit
+main: com.github.thrimbor.fifoBukkit.FifoBukkit
+version: 1.0
+description: >
+             fifoBukkit is a plugin that allows bukkit to execute commands read from a fifo.
